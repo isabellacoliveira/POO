@@ -1,0 +1,1 @@
+Implemente o método login() de uma classe SistemaInterno que receba como parâmetro qualquer objeto autenticável e permita autenticável e permita autenticar esse objeto no sistema. O método autentica() definido na interface Autenticavel deve comparar o atributo senha com seu argumento senha e devolver o resultado dessa comparação.
